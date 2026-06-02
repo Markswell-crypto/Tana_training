@@ -1,2 +1,2 @@
 # Tana_training
-Training Updated Readme
+Added New Training data for Updated Readme
