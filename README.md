@@ -1,2 +1,2 @@
 # Tana_training
-Training
+Training Updated Readme
